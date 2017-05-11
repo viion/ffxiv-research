@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqpackIndex2", "SqpackIndex2\SqpackIndex2.csproj", "{7C349AA2-3B04-4802-A1C6-395207628E90}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PatchUpdateProcess", "PatchUpdateProcess\PatchUpdateProcess.csproj", "{02A04B3D-C5C9-4ADB-B0A4-66108AFFD21E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C349AA2-3B04-4802-A1C6-395207628E90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C349AA2-3B04-4802-A1C6-395207628E90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C349AA2-3B04-4802-A1C6-395207628E90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C349AA2-3B04-4802-A1C6-395207628E90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02A04B3D-C5C9-4ADB-B0A4-66108AFFD21E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02A04B3D-C5C9-4ADB-B0A4-66108AFFD21E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02A04B3D-C5C9-4ADB-B0A4-66108AFFD21E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02A04B3D-C5C9-4ADB-B0A4-66108AFFD21E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

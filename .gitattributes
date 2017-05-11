@@ -1,0 +1,12 @@
+# FINAL FANTASY XIV data
+*.dat* binary filter=lfs diff=lfs merge=lfs -text
+*.bk2 binary filter=lfs diff=lfs merge=lfs -text
+*.exe binary filter=lfs diff=lfs merge=lfs -text
+*.dll binary filter=lfs diff=lfs merge=lfs -text
+*.index* binary filter=lfs diff=lfs merge=lfs -text
+
+# Binary Ninja (SQLite)
+*.bndb binary filter=lfs diff=lfs merge=lfs -text
+
+# API Monitor
+*.apmx* binary filter=lfs diff=lfs merge=lfs -text
